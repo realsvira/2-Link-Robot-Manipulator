@@ -159,7 +159,7 @@ This project is part of an academic course at IIIT Hyderabad. Please contact the
 ## 📧 Contact
 
 For questions or collaboration:
-- Het Selarka: het.selarka@students.iiit.ac.in
+- Saumya Vira: saumya.vira@students.iiit.ac.in
 
 ## 🙏 Acknowledgments
 
